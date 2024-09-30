@@ -1,6 +1,6 @@
 # Hindi-English OCR Web Application
 
-![Streamlit OCR](https://medium.com/@alperenclk/exploring-optical-character-recognition-ocr-with-streamlit-and-doctr-00e95ae36e4e)
+![Streamlit OCR](https://www.onlineocr.net/images/scan_ocr.webp)
 
 ## Project Overview
 This web-based prototype allows users to upload an image with text in Hindi and English, extract the text using Optical Character Recognition (OCR), and search for keywords within the extracted text. The application is built with Streamlit and PyTesseract, and deployed online for public access.
